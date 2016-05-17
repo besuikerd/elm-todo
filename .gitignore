@@ -1,0 +1,12 @@
+#JS
+node_modules/
+bower_components/
+
+#Build
+dist/
+
+#Intellij
+.idea/
+
+#Elm
+elm-stuff/
